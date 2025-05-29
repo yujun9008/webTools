@@ -1,0 +1,11 @@
+.result-container {
+  margin-top: 24px;
+}
+
+.preview {
+  margin: 16px 0;
+  padding: 8px;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  display: inline-block;
+}

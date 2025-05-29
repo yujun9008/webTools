@@ -1,0 +1,17 @@
+h5 {
+  margin: 5px 0;
+}
+.button-group {
+  display: flex;
+  button {
+    margin-right: 10px;
+  }
+}
+.button-group .ant-btn .anticon-swap {
+  transform: rotate(90deg);
+}
+.checkbox-json{
+  font-size: 12px;
+  font-weight: 400;
+  float: right;
+}
