@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +49,8 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# webTool
+
+webtool是一个基于React的Chrome扩展程序
+>>>>>>> dbb1ddd3c982345d590397e3138f75fb628946b4
