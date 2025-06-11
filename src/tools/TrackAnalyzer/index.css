@@ -40,3 +40,6 @@ h3{
   display: inline-block;
   margin: 0 10px;
 }
+.track-cotainer .ant-list .ant-list-item{
+  padding: 6px 0;
+}
